@@ -75,7 +75,90 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 
 ---
 
+## QA Engineers
+
+### Role Summary
+QA Engineers define and execute quality validation activities so teams can release confidently and catch defects early.
+
+### Responsibilities
+- Define test strategy and acceptance test coverage for releases
+- Build and maintain test cases for critical user flows
+- Partner with developers to reproduce and isolate defects
+- Report quality trends and release risks to delivery leads
+
+### Goals
+- Prevent production regressions in high-impact workflows
+- Improve confidence in release readiness
+- Shorten feedback loops between implementation and validation
+
+### Typical Communication
+- Test plan updates in sprint planning and review
+- Defect triage with Developers and Project Managers
+- Release readiness sign-off with Product Managers
+
+### Interaction with Existing Roles
+- Collaborates with Developers on testability and bug resolution
+- Works with Product Managers to confirm acceptance criteria quality
+- Partners with Project Managers to align quality gates with milestones
+
+---
+
+## Security Engineers
+
+### Role Summary
+Security Engineers ensure project delivery includes secure design, secure defaults, and timely response to security risks.
+
+### Responsibilities
+- Review architecture and implementation for security risks
+- Define security requirements for features handling sensitive data
+- Support threat modeling and secure coding guidance
+- Coordinate vulnerability remediation and security incident follow-up
+
+### Goals
+- Reduce exploitable vulnerabilities before release
+- Ensure consistent use of security controls and scans
+- Improve team security awareness during planning and execution
+
+### Typical Communication
+- Security risk reviews with Developers and Product Managers
+- Escalation support with Project Managers for high-severity findings
+- Post-incident improvement recommendations during retrospectives
+
+### Interaction with Existing Roles
+- Advises Developers on mitigation patterns and secure implementation
+- Aligns with Product Managers on risk trade-offs and compliance needs
+- Works with Project Managers on escalation paths and remediation tracking
+
+---
+
+## UX Researchers
+
+### Role Summary
+UX Researchers gather and synthesize user insights that improve prioritization decisions and product usability outcomes.
+
+### Responsibilities
+- Plan and run user interviews or usability studies
+- Translate findings into actionable requirements and risks
+- Partner with Product Managers on hypothesis validation
+- Help teams evaluate whether delivered features solve user problems
+
+### Goals
+- Increase confidence that teams are building the right solutions
+- Reduce rework caused by unclear user needs
+- Improve customer satisfaction and feature adoption
+
+### Typical Communication
+- Insight readouts with Product Managers and Developers
+- Usability findings shared in planning and review cadences
+- Prioritization input during roadmap and backlog discussions
+
+### Interaction with Existing Roles
+- Works with Product Managers to shape roadmap priorities
+- Partners with Developers to clarify usability requirements
+- Supports Project Managers by surfacing research-driven dependencies and risks
+
+---
+
 ## How these personas are used in the exercise
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
-
